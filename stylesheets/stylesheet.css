@@ -28,6 +28,14 @@ body {
   color: #159957;
 }
 
+.main-content h3 {
+  color: #417D60;
+}
+
+.main-content li {
+  padding: 5px 0;
+}
+
 .page-section {
   text-align: justify;
   font-size: 16px;
